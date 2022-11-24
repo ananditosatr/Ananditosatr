@@ -93,7 +93,7 @@ h1 {
 
 /* HERO */
 .hero-container {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3)), url("bg.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(101, 99, 99, 0.3)), url("Images/Rumah\ cake.png");
   height: 91.5vh;
   background-position: center;
   background-repeat: no-repeat;
