@@ -1,7 +1,7 @@
 :root {
   --main-color: #ffd95c;
-  --main-color-hover: #e6c34f;
-  --dark-color: #2b2b2b;
+  --main-color-hover: #4fe6b4;
+  --dark-color: #0c1a0a;
   --container-width: 1100px;
 }
 
@@ -13,7 +13,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Montserrat";
 }
 
 h1 {
@@ -37,6 +37,47 @@ h1 {
   background-color: var(--main-color-hover);
   color: #0efaea;
   transition: all 0.3s;
+}
+
+#button {
+  display: inline-block;
+  background-color: #00ff00;
+  color: #45a049;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 4px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  transition: background-color 0.3s, opacity 0.5s, visibility 0.5s;
+  opacity: 100%;
+  z-index: 1000;
+}
+#button::after {
+  font-family: "Montserrat";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 2em;
+  line-height: 50px;
+  color: #fff;
+}
+#button:hover {
+  cursor: pointer;
+  background-color: #333;
+}
+#button:active {
+  background-color: #555;
+}
+
+@media (min-width: 500px) {
+  #button {
+    margin: 30px;
+  }
+}
+#button i {
+  font-size: 24px;
+  padding-top: 14px;
 }
 
 /* HEADER */
@@ -112,13 +153,13 @@ h1 {
 
 .hero-text h1 {
   font-size: 4em;
-  color: #45a049;
+  color: #78da1c;
 }
 
 .hero-text p {
   font-size: 2em;
   margin: 0;
-  color: #45a049;
+  color: #72ed00;
 }
 
 /* END OF HERO */
@@ -497,4 +538,7 @@ input[type="submit"]:hover {
 #button i {
   font-size: 24px;
   padding-top: 14px;
+}
+header {
+  text-align: center;
 }
