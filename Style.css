@@ -147,19 +147,19 @@ h1 {
 
 .hero-text {
   text-align: center;
-  color: rgb(50, 249, 0);
+  color: rgb(22, 23, 23);
   padding: 1rem;
 }
 
 .hero-text h1 {
   font-size: 4em;
-  color: #78da1c;
+  color: #292928;
 }
 
 .hero-text p {
   font-size: 2em;
   margin: 0;
-  color: #72ed00;
+  color: #222321;
 }
 
 /* END OF HERO */
@@ -523,7 +523,7 @@ input[type="submit"]:hover {
   background-color: #333;
 }
 #button:active {
-  background-color: #555;
+  background-color: rgb(243, 236, 236);
 }
 #button.show {
   opacity: 1;
@@ -541,4 +541,77 @@ input[type="submit"]:hover {
 }
 header {
   text-align: center;
+}
+/* Slideshow container */
+.slideshow-container {
+  width: 600px;
+  position: relative;
+  margin: auto;
+}
+.mySlides {
+  display: none;
+}
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -10px;
+  padding: 20px;
+  color: rgb(18, 107, 83);
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  user-select: none;
+}
+.next {
+  right: 0;
+}
+.prev:hover,
+.next:hover {
+  background-color: var(--main-color);
+}
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  font-style: oblique;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 6px;
+  width: 100%;
+  text-align: center;
+  text-shadow: 1px 1px 2px #000;
+}
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 6px 12px;
+  position: absolute;
+  top: 0;
+}
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+.dot:hover {
+  background-color: #717171;
+}
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
 }
