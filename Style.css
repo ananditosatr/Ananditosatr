@@ -28,14 +28,14 @@ h1 {
   margin-top: 1.3em;
   padding: 0.7em 1.2em;
   background-color: var(--main-color);
-  color: #464646;
+  color: #eff5ed;
   border-radius: 30px;
   font-size: 1.1em;
 }
 
 .button:hover {
   background-color: var(--main-color-hover);
-  color: #2e2a2a;
+  color: #0efaea;
   transition: all 0.3s;
 }
 
@@ -70,7 +70,7 @@ h1 {
 
 .nav-container li a {
   display: block;
-  color: white;
+  color: rgb(245, 251, 244);
   padding: 0 1.1em;
   text-decoration: none;
   text-transform: uppercase;
@@ -79,7 +79,7 @@ h1 {
 }
 
 .nav-container li a:hover {
-  color: var(--main-color);
+  color: #0efaea;
   transition: all 0.3s;
   border-bottom: 5px solid var(--main-color);
 }
@@ -93,7 +93,7 @@ h1 {
 
 /* HERO */
 .hero-container {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3)), url("bg.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3)), url("Images/Rumah\ cake.png");
   height: 91.5vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -106,19 +106,19 @@ h1 {
 
 .hero-text {
   text-align: center;
-  color: white;
+  color: rgb(50, 249, 0);
   padding: 1rem;
 }
 
 .hero-text h1 {
   font-size: 4em;
-  color: var(--dark-color);
+  color: #45a049;
 }
 
 .hero-text p {
   font-size: 2em;
   margin: 0;
-  color: var(--dark-color);
+  color: #45a049;
 }
 
 /* END OF HERO */
