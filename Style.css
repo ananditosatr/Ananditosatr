@@ -241,6 +241,8 @@ h1 {
 
 /* END OF BLOG */
 
+
+
 /* FOOTER */
 .footer-container {
   margin-top: 3rem;
@@ -372,9 +374,9 @@ h1 {
   /* END OF HEADER */
 
   /* HERO */
-  .hero-text h1 {
+  /* .hero-text h1 {
     font-size: 3em;
-  }
+  } */
 
   /* END OF HERO */
 
@@ -494,6 +496,11 @@ input[type="submit"]:hover {
   background-color: #f2f2f2;
   padding: 20px;
 }
+
+
+
+
+/* {scroll on top } */
 #button {
   display: inline-block;
   background-color: #ff9800;
