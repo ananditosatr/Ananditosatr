@@ -28,13 +28,14 @@
 | MisterDropship | Katalog produk dan pengelolaan reseller, dengan API untuk produk, kategori, passcode, serta administrasi reseller. | PHP, Laravel, React, JavaScript, Tailwind CSS, Vite | [Lihat repository](https://github.com/ananditosatr/Project-website-misterdropsip) |
 | Enterprise Integration Services | Kumpulan tiga layanan Laravel untuk pengguna, produk, dan pesanan; mencakup endpoint autentikasi, riwayat pesanan, serta pengelolaan data produk dan order. | PHP, Laravel, GraphQL/Lighthouse, RabbitMQ, Docker | [Lihat repository](https://github.com/ananditosatr/UAS-TUGAS-BESAR-IEA) |
 
-<!-- Statistik dimuat dari GitHub Readme Stats; ganti username atau tema pada URL gambar bila diperlukan. -->
+<!-- Statistik diperbarui otomatis oleh Shields.io; ubah username pada URL jika akun GitHub berganti. -->
 ## Statistik GitHub
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ananditosatr&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananditosatr&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa pemrograman teratas" height="165">
-</p>
+[![Repositori publik](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fananditosatr&query=%24.public_repos&label=Repositori%20publik&logo=github&color=181717)](https://github.com/ananditosatr?tab=repositories)
+[![Pengikut GitHub](https://img.shields.io/github/followers/ananditosatr?label=Pengikut&logo=github&style=flat&color=181717)](https://github.com/ananditosatr?tab=followers)
+[![Bintang repositori](https://img.shields.io/github/stars/ananditosatr?affiliations=OWNER&label=Bintang%20repo&logo=github&style=flat&color=181717)](https://github.com/ananditosatr)
+
+[Lihat aktivitas kontribusi di profil GitHub](https://github.com/ananditosatr).
 
 <!-- Isi alamat email profesional dan URL LinkedIn yang ingin ditampilkan secara publik. -->
 ## Kontak
