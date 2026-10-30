@@ -1,0 +1,43 @@
+<!-- Ubah nama, headline, dan tagline ini agar sesuai dengan fokus karier yang ingin ditonjolkan. -->
+<h1 align="center">Halo, saya Anandito Satria Pradana 👋</h1>
+
+<p align="center">
+  Web developer yang membangun aplikasi web dengan Laravel dan JavaScript — terbuka untuk kesempatan magang dan posisi junior.
+</p>
+
+<!-- Perbarui poin-poin ini seiring pengalaman, minat, dan pendidikan Anda berkembang. -->
+## Tentang Saya
+
+- Berfokus pada pengembangan aplikasi web menggunakan PHP/Laravel dan JavaScript.
+- Tertarik membangun API, dashboard, dan alur bisnis web yang mudah digunakan.
+- Sedang mencari kesempatan magang atau posisi entry-level sebagai web developer.
+- Pendidikan dan domisili: **[ISI MANUAL]**.
+
+<!-- Daftar ini berasal dari teknologi yang terdeteksi pada repository publik; hapus atau tambahkan hanya setelah benar-benar digunakan. -->
+## Tech Stack
+
+- **Backend:** PHP, Laravel
+- **Frontend:** JavaScript, React, Blade, HTML, CSS, Tailwind CSS
+- **Tooling dan integrasi:** Vite, GraphQL (Lighthouse), RabbitMQ, Docker
+
+<!-- Tambahkan proyek lain setelah dokumentasi dan pengecekan keamanan repo tersebut selesai. -->
+## Proyek Pilihan
+
+| Proyek | Deskripsi | Teknologi | Tautan |
+|---|---|---|---|
+| MisterDropship | Katalog produk dan pengelolaan reseller, dengan API untuk produk, kategori, passcode, serta administrasi reseller. | PHP, Laravel, React, JavaScript, Tailwind CSS, Vite | [Lihat repository](https://github.com/ananditosatr/Project-website-misterdropsip) |
+| Enterprise Integration Services | Kumpulan tiga layanan Laravel untuk pengguna, produk, dan pesanan; mencakup endpoint autentikasi, riwayat pesanan, serta pengelolaan data produk dan order. | PHP, Laravel, GraphQL/Lighthouse, RabbitMQ, Docker | [Lihat repository](https://github.com/ananditosatr/UAS-TUGAS-BESAR-IEA) |
+
+<!-- Statistik dimuat dari GitHub Readme Stats; ganti username atau tema pada URL gambar bila diperlukan. -->
+## Statistik GitHub
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ananditosatr&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananditosatr&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa pemrograman teratas" height="165">
+</p>
+
+<!-- Isi alamat email profesional dan URL LinkedIn yang ingin ditampilkan secara publik. -->
+## Kontak
+
+- **Email:** [ISI MANUAL]
+- **LinkedIn:** [ISI MANUAL]
