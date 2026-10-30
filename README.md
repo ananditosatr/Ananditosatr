@@ -2,16 +2,17 @@
 <h1 align="center">Halo, saya Anandito Satria Pradana 👋</h1>
 
 <p align="center">
-  Web developer yang membangun aplikasi web dengan Laravel dan JavaScript — terbuka untuk kesempatan magang dan posisi junior.
+  Mengembangkan aplikasi web dengan Laravel dan JavaScript, serta terbuka untuk kesempatan magang dan kerja sebagai web developer.
 </p>
 
-<!-- Perbarui poin-poin ini seiring pengalaman, minat, dan pendidikan Anda berkembang. -->
+<!-- Perbarui bagian ini jika pendidikan, domisili, atau fokus karier berubah. -->
 ## Tentang Saya
 
-- Berfokus pada pengembangan aplikasi web menggunakan PHP/Laravel dan JavaScript.
-- Tertarik membangun API, dashboard, dan alur bisnis web yang mudah digunakan.
-- Sedang mencari kesempatan magang atau posisi entry-level sebagai web developer.
-- Pendidikan dan domisili: **[ISI MANUAL]**.
+- Pendidikan: S1 Sistem Informasi, Telkom University.
+- Domisili: Surabaya.
+- Mengembangkan aplikasi web menggunakan PHP/Laravel dan JavaScript.
+- Tertarik membangun API, dashboard, dan aplikasi untuk kebutuhan bisnis.
+- Terbuka untuk kesempatan magang maupun kerja sebagai web developer.
 
 <!-- Daftar ini berasal dari teknologi yang terdeteksi pada repository publik; hapus atau tambahkan hanya setelah benar-benar digunakan. -->
 ## Tech Stack
@@ -29,17 +30,12 @@
 | Enterprise Integration Services | Kumpulan tiga layanan Laravel untuk pengguna, produk, dan pesanan; mencakup endpoint autentikasi, riwayat pesanan, serta pengelolaan data produk dan order. | PHP, Laravel, GraphQL/Lighthouse, RabbitMQ, Docker | [Lihat repository](https://github.com/ananditosatr/UAS-TUGAS-BESAR-IEA) |
 | POS Rumah Cake Suprezz | Sistem POS untuk pemesanan pelanggan dan kasir, termasuk pemeriksaan pembayaran, pengelolaan menu/kategori, invoice, dan riwayat pesanan. | PHP 8.2, Laravel 12, Blade, Tailwind CSS 4, Vite 7 | [Lihat repository](https://github.com/ananditosatr/backupwediilang) |
 
-<!-- Statistik diperbarui otomatis oleh Shields.io; ubah username pada URL jika akun GitHub berganti. -->
-## Statistik GitHub
+<!-- Lihat statistik dan kontribusi langsung di GitHub; bagian ini sengaja tanpa kartu atau layanan statistik eksternal. -->
+## Aktivitas GitHub
 
-[![Repositori publik](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fananditosatr&query=%24.public_repos&label=Repositori%20publik&logo=github&color=181717)](https://github.com/ananditosatr?tab=repositories)
-[![Pengikut GitHub](https://img.shields.io/github/followers/ananditosatr?label=Pengikut&logo=github&style=flat&color=181717)](https://github.com/ananditosatr?tab=followers)
-[![Bintang repositori](https://img.shields.io/github/stars/ananditosatr?affiliations=OWNER&label=Bintang%20repo&logo=github&style=flat&color=181717)](https://github.com/ananditosatr)
+[Lihat repositori dan aktivitas kontribusi saya di GitHub](https://github.com/ananditosatr).
 
-[Lihat aktivitas kontribusi di profil GitHub](https://github.com/ananditosatr).
-
-<!-- Isi alamat email profesional dan URL LinkedIn yang ingin ditampilkan secara publik. -->
+<!-- Perbarui alamat email ini jika Anda ingin menggunakan alamat profesional lain. -->
 ## Kontak
 
-- **Email:** [ISI MANUAL]
-- **LinkedIn:** [ISI MANUAL]
+- **Email:** [ananditosatriapradana18@gmail.com](mailto:ananditosatriapradana18@gmail.com)
