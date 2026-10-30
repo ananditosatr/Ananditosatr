@@ -20,13 +20,14 @@
 - **Frontend:** JavaScript, React, Blade, HTML, CSS, Tailwind CSS
 - **Tooling dan integrasi:** Vite, GraphQL (Lighthouse), RabbitMQ, Docker
 
-<!-- Tambahkan proyek lain setelah dokumentasi dan pengecekan keamanan repo tersebut selesai. -->
+<!-- Tambahkan proyek setelah README, konfigurasi, dan keamanan repository ditinjau. -->
 ## Proyek Pilihan
 
 | Proyek | Deskripsi | Teknologi | Tautan |
 |---|---|---|---|
 | MisterDropship | Katalog produk dan pengelolaan reseller, dengan API untuk produk, kategori, passcode, serta administrasi reseller. | PHP, Laravel, React, JavaScript, Tailwind CSS, Vite | [Lihat repository](https://github.com/ananditosatr/Project-website-misterdropsip) |
 | Enterprise Integration Services | Kumpulan tiga layanan Laravel untuk pengguna, produk, dan pesanan; mencakup endpoint autentikasi, riwayat pesanan, serta pengelolaan data produk dan order. | PHP, Laravel, GraphQL/Lighthouse, RabbitMQ, Docker | [Lihat repository](https://github.com/ananditosatr/UAS-TUGAS-BESAR-IEA) |
+| POS Rumah Cake Suprezz | Sistem POS untuk pemesanan pelanggan dan kasir, termasuk pemeriksaan pembayaran, pengelolaan menu/kategori, invoice, dan riwayat pesanan. | PHP 8.2, Laravel 12, Blade, Tailwind CSS 4, Vite 7 | [Lihat repository](https://github.com/ananditosatr/backupwediilang) |
 
 <!-- Statistik diperbarui otomatis oleh Shields.io; ubah username pada URL jika akun GitHub berganti. -->
 ## Statistik GitHub
