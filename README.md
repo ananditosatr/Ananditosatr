@@ -1,47 +1,37 @@
-<!-- Ubah headline ini bila target posisi atau bidang yang dilamar berubah. -->
-<h1 align="center">Halo, saya Anandito Satria Pradana 👋</h1>
+# Halo, saya Anandito Satria Pradana 👋
+Mengembangkan aplikasi web dengan Laravel dan JavaScript, serta terbuka untuk kesempatan magang dan kerja sebagai Web Developer maupun IT Support.
 
-<p align="center">
-  Mengembangkan aplikasi web dengan Laravel dan JavaScript, serta terbuka untuk kesempatan magang dan kerja sebagai Web Developer maupun IT Support.
-</p>
+[Demo POS](https://rumahcakesuprezz.site) · [Repo POS](https://github.com/ananditosatr/pos-rumah-cake-suprezz) · [Email](mailto:ananditosatriapradana18@gmail.com)
 
-<!-- Perbarui data pendidikan dan domisili bila ada perubahan. -->
+[IT Support Notes](https://github.com/ananditosatr/it-support-notes) · [Odoo Notes](https://github.com/ananditosatr/odoo-notes)
+
 ## Profil
 
-- S1 Sistem Informasi, Telkom University Surabaya — lulus Agustus 2026, IPK 3,12.
+- S1 Sistem Informasi, Telkom University Surabaya — lulus 21 Agustus 2026, IPK 3,12, yudisium Sangat Memuaskan.
 - Lulusan SMK Muhammadiyah 1 Taman, jurusan Teknik Komputer dan Jaringan (TKJ).
 - Domisili Surabaya.
-- Terbuka untuk posisi IT Support dan staf sistem informasi.
+- Terbuka untuk IT Support, Web Developer, staf sistem informasi, dan posisi lain yang relevan dengan latar belakang saya.
 
-<!-- Cantumkan hanya keterampilan teknis yang pernah dipraktikkan sendiri. -->
-## Kompetensi
+## Yang saya kerjakan
 
-- Instal ulang sistem operasi.
-- Troubleshooting dasar komputer.
-- Memiliki latar belakang pembelajaran Teknik Komputer dan Jaringan.
-- Sedang mulai mencoba Odoo; alur yang sudah dipraktikkan: **[ISI MANUAL]**.
-- Praktik jaringan yang pernah dilakukan: **[ISI MANUAL atau hapus baris ini]**.
+- **Komputer dan jaringan:** instal ulang sistem operasi, troubleshooting dasar komputer, dengan latar belakang TKJ. Praktik jaringan spesifik: [PERLU KONFIRMASI].
+- **Sistem informasi:** konsep ERP dan integrasi aplikasi enterprise; Odoo tingkat dasar dari mata kuliah Sistem Enterprise.
+- **Pengembangan web:** PHP, Laravel, Blade, Tailwind CSS, dan JavaScript.
 
-<!-- Pilih proyek yang sudah ditinjau dan relevan; detail POS berasal dari proyek skripsi yang dikonfirmasi. -->
+## Tech Stack
+
+- **Backend:** PHP, Laravel
+- **Frontend:** JavaScript, React, Blade, HTML, CSS, Tailwind CSS
+- **Tooling dan integrasi:** Vite, GraphQL (Lighthouse), RabbitMQ, Docker
+
 ## Proyek Pilihan
 
 | Proyek | Deskripsi | Teknologi | Tautan |
 |---|---|---|---|
-| POS Rumah Cake Suprezz | Proyek skripsi POS berbasis web untuk pemesanan pelanggan dan operasional kasir. Fitur mencakup katalog/kategori menu, pembayaran QRIS atau transfer dengan unggah bukti, lacak pesanan, verifikasi pembayaran, walk-in, invoice, delivery note, struk, dan riwayat. | PHP 8.2, Laravel 12, Blade, Tailwind CSS 4, Vite 7 | [Repository](https://github.com/ananditosatr/backupwediilang) · [Demo](https://rumahcakesuprezz.site) |
+| POS Rumah Cake Suprezz | Proyek skripsi POS berbasis web dengan katalog menu, pemesanan pelanggan, pembayaran QRIS/transfer, dan alur operasional kasir. Menggunakan Personal Extreme Programming. | PHP 8.2, Laravel 12, Blade, Tailwind CSS 4, Vite 7 | [Repo](https://github.com/ananditosatr/pos-rumah-cake-suprezz) · [Demo](https://rumahcakesuprezz.site) |
 | MisterDropship | Aplikasi katalog produk dan pengelolaan reseller. | PHP, Laravel, React, JavaScript, Tailwind CSS, Vite | [Repository](https://github.com/ananditosatr/Project-website-misterdropsip) |
-| Enterprise Integration Services | Proyek tiga layanan untuk pengguna, produk, dan pesanan; mencakup endpoint autentikasi, riwayat pesanan, serta pengelolaan data produk/order. | PHP, Laravel, GraphQL/Lighthouse, RabbitMQ, Docker | [Repository](https://github.com/ananditosatr/UAS-TUGAS-BESAR-IEA) |
+| Enterprise Integration Services | Proyek tiga layanan untuk pengguna, produk, dan pesanan, termasuk autentikasi, riwayat pesanan, serta pengelolaan data. | PHP, Laravel, GraphQL/Lighthouse, RabbitMQ, Docker | [Repository](https://github.com/ananditosatr/UAS-TUGAS-BESAR-IEA) |
 
-<!-- Detail konfigurasi atau penggunaan POS yang belum dikonfirmasi tetap ditandai agar dapat dilengkapi nanti. -->
-**Detail POS:** database hosting **[ISI MANUAL: MySQL atau SQLite]**; database lokal **[ISI MANUAL]**; status penggunaan di toko **[ISI MANUAL]**.
-
-<!-- Periksa dan perbarui bagian Odoo setelah mencoba alur kerja yang dapat dijelaskan secara langsung. -->
-## Pembelajaran Sistem Informasi
-
-- Mata kuliah Arsitektur Enterprise — nilai AB.
-- Memiliki akun Odoo dan sedang mulai mengenal penggunaan ERP.
-
-<!-- Perbarui email ini jika menggunakan alamat kontak profesional yang berbeda. -->
 ## Kontak
 
-- **Email:** [ananditosatriapradana18@gmail.com](mailto:ananditosatriapradana18@gmail.com)
-- **GitHub:** [github.com/ananditosatr](https://github.com/ananditosatr)
+[ananditosatriapradana18@gmail.com](mailto:ananditosatriapradana18@gmail.com)
