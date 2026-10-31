@@ -1,8 +1,8 @@
 <!-- Ubah headline ini bila target posisi atau bidang yang dilamar berubah. -->
-<h1 align="center">Halo, saya Anandito Satria Pradana</h1>
+<h1 align="center">Halo, saya Anandito Satria Pradana 👋</h1>
 
 <p align="center">
-  Lulusan Sistem Informasi berlatar belakang TKJ, dengan pengalaman proyek aplikasi POS berbasis web serta minat pada IT Support, sistem informasi, dan operasional TI.
+  Mengembangkan aplikasi web dengan Laravel dan JavaScript, serta terbuka untuk kesempatan magang dan kerja sebagai web developer.
 </p>
 
 <!-- Perbarui data pendidikan dan domisili bila ada perubahan. -->
