@@ -22,28 +22,17 @@
 - Sedang mulai mencoba Odoo; alur yang sudah dipraktikkan: **[ISI MANUAL]**.
 - Praktik jaringan yang pernah dilakukan: **[ISI MANUAL atau hapus baris ini]**.
 
-<!-- Proyek skripsi ini diringkas dari repository dan fakta proyek yang telah dikonfirmasi. Lengkapi bagian bertanda ISI MANUAL setelah memeriksa konfigurasi dan penggunaan sebenarnya. -->
-## Proyek Skripsi
+<!-- Pilih proyek yang sudah ditinjau dan relevan; detail POS berasal dari proyek skripsi yang dikonfirmasi. -->
+## Proyek Pilihan
 
-### Pembangunan Aplikasi Point of Sale Berbasis Website Menggunakan Extreme Programming
-**Studi Kasus PT Rumah Cake Suprezz**
+| Proyek | Deskripsi | Teknologi | Tautan |
+|---|---|---|---|
+| POS Rumah Cake Suprezz | Proyek skripsi POS berbasis web untuk pemesanan pelanggan dan operasional kasir. Fitur mencakup katalog/kategori menu, pembayaran QRIS atau transfer dengan unggah bukti, lacak pesanan, verifikasi pembayaran, walk-in, invoice, delivery note, struk, dan riwayat. | PHP 8.2, Laravel 12, Blade, Tailwind CSS 4, Vite 7 | [Repository](https://github.com/ananditosatr/backupwediilang) · [Demo](https://rumahcakesuprezz.site) |
+| MisterDropship | Aplikasi katalog produk dan pengelolaan reseller. | PHP, Laravel, React, JavaScript, Tailwind CSS, Vite | [Repository](https://github.com/ananditosatr/Project-website-misterdropsip) |
+| Enterprise Integration Services | Proyek tiga layanan untuk pengguna, produk, dan pesanan; mencakup endpoint autentikasi, riwayat pesanan, serta pengelolaan data produk/order. | PHP, Laravel, GraphQL/Lighthouse, RabbitMQ, Docker | [Repository](https://github.com/ananditosatr/UAS-TUGAS-BESAR-IEA) |
 
-Aplikasi POS berbasis web untuk mendukung pemesanan pelanggan dan operasional kasir.
-
-- **Fitur:** katalog dan kategori menu, pesanan pelanggan, pembayaran QRIS/transfer bank dengan unggah bukti pembayaran, pelacakan pesanan, verifikasi pembayaran oleh kasir, pengelolaan menu/kategori, pesanan walk-in, invoice, delivery note, struk, dan riwayat pesanan.
-- **Teknologi:** PHP 8.2, Laravel 12, Blade, Tailwind CSS 4, Vite 7.
-- **Perangkat pengembangan:** VS Code dan XAMPP.
-- **Database produksi/hosting:** [ISI MANUAL: MySQL atau SQLite].
-- **Database lokal:** [ISI MANUAL].
-- **Status penggunaan di toko:** [ISI MANUAL: digunakan langsung, diuji, atau lainnya].
-- **Demo:** [rumahcakesuprezz.site](https://rumahcakesuprezz.site) — verifikasi status sebelum melamar.
-- **Kode sumber:** [Repository POS Rumah Cake Suprezz](https://github.com/ananditosatr/backupwediilang).
-
-<!-- Proyek lain hanya ditambahkan jika relevan dengan posisi yang dilamar dan dapat Anda jelaskan saat wawancara. -->
-## Proyek Lain
-
-- [MisterDropship](https://github.com/ananditosatr/Project-website-misterdropsip) — aplikasi katalog produk dan pengelolaan reseller berbasis Laravel dan JavaScript.
-- [Enterprise Integration Services](https://github.com/ananditosatr/UAS-TUGAS-BESAR-IEA) — proyek layanan pengguna, produk, dan pesanan menggunakan Laravel; repository mencakup Lighthouse/GraphQL, RabbitMQ, dan Docker.
+<!-- Detail konfigurasi atau penggunaan POS yang belum dikonfirmasi tetap ditandai agar dapat dilengkapi nanti. -->
+**Detail POS:** database hosting **[ISI MANUAL: MySQL atau SQLite]**; database lokal **[ISI MANUAL]**; status penggunaan di toko **[ISI MANUAL]**.
 
 <!-- Periksa dan perbarui bagian Odoo setelah mencoba alur kerja yang dapat dijelaskan secara langsung. -->
 ## Pembelajaran Sistem Informasi
