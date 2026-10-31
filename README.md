@@ -2,7 +2,7 @@
 <h1 align="center">Halo, saya Anandito Satria Pradana</h1>
 
 <p align="center">
-  Lulusan Sistem Informasi berlatar belakang TKJ, tertarik pada IT Support dan sistem informasi rumah sakit.
+  Lulusan Sistem Informasi berlatar belakang TKJ, dengan pengalaman proyek aplikasi POS berbasis web serta minat pada IT Support, sistem informasi, dan operasional TI.
 </p>
 
 <!-- Perbarui data pendidikan dan domisili bila ada perubahan. -->
