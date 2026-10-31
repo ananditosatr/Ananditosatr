@@ -2,7 +2,7 @@
 <h1 align="center">Halo, saya Anandito Satria Pradana 👋</h1>
 
 <p align="center">
-  Mengembangkan aplikasi web dengan Laravel dan JavaScript, serta terbuka untuk kesempatan magang dan kerja sebagai web developer.
+  Mengembangkan aplikasi web dengan Laravel dan JavaScript, serta terbuka untuk kesempatan magang dan kerja sebagai Web Developer maupun IT Support.
 </p>
 
 <!-- Perbarui data pendidikan dan domisili bila ada perubahan. -->
