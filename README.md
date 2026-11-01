@@ -7,7 +7,7 @@ Mengembangkan aplikasi web dengan Laravel dan JavaScript, serta terbuka untuk ke
 
 ## Tentang Saya
 
-- S1 Sistem Informasi, Telkom University Surabaya — lulus 21 Agustus 2026, IPK 3,12, yudisium Sangat Memuaskan.
+- S1 Sistem Informasi, Telkom University Surabaya, lulus 21 Agustus 2026, IPK 3,12, yudisium Sangat Memuaskan.
 - Lulusan SMK Muhammadiyah 1 Taman, jurusan Teknik Komputer dan Jaringan (TKJ).
 - Domisili Surabaya.
 - Mengembangkan aplikasi web menggunakan PHP, Laravel, dan JavaScript, serta tertarik pada dukungan teknis dan sistem informasi.
@@ -16,7 +16,7 @@ Mengembangkan aplikasi web dengan Laravel dan JavaScript, serta terbuka untuk ke
 
 ## Yang saya kerjakan
 
-- **Komputer dan dukungan teknis:** Berbekal latar belakang TKJ, saya pernah melakukan instal ulang sistem operasi dan troubleshooting dasar komputer. Saya juga mempelajari Sistem Operasi, Jaringan Komputer, dan Manajemen Layanan sebagai bagian dari studi Sistem Informasi. Bekal ini mendukung minat saya dalam membantu pengguna menghadapi kendala komputer dan aplikasi.
+- **Komputer dan dukungan teknis:** Berbekal latar belakang jurusan TKJ dan sistem informasi  saya pernah melakukan instal ulang sistem operasi dan troubleshooting dasar komputer. Saya juga mempelajari Sistem Operasi, Jaringan Komputer, dan Manajemen Layanan sebagai bagian dari studi Sistem Informasi. Bekal ini mendukung minat saya dalam membantu pengguna menghadapi kendala komputer dan aplikasi.
 - **Sistem Informasi dan proses bisnis:** Melalui mata kuliah di program studi Sistem Informasi, saya mempelajari cara teknologi informasi mendukung kebutuhan pengguna dan proses bisnis. Pembelajarannya mencakup analisis kebutuhan dan perancangan solusi informasi. ERP merupakan salah satu bidang yang saya pelajari, bersama Sistem Enterprise, Perencanaan Sumber Daya Perusahaan (ERP), Integrasi Aplikasi Enterprise, dan Manajemen Layanan.
 - **UI/UX dan prototipe:** Saya mempelajari cara merancang tampilan website atau aplikasi agar mudah dipahami dan digunakan. UI berfokus pada tampilan halaman dan elemen yang berinteraksi dengan pengguna, sedangkan UX berfokus pada alur dan kemudahan saat pengguna memakai aplikasi. Prototipe adalah contoh awal rancangan tampilan dan alur tersebut, yang dapat ditinjau sebelum website dikembangkan.
 - **Pengembangan website dan front-end:** Saya mengembangkan aplikasi web menggunakan PHP, Laravel, Blade, Tailwind CSS, dan JavaScript. Pada bagian front-end, saya menyusun halaman dan elemen antarmuka berdasarkan fungsi aplikasi. Salah satu proyek yang saya kerjakan adalah POS Rumah Cake Suprezz, aplikasi Point of Sale berbasis web sebagai tugas akhir dengan metodologi Personal Extreme Programming.
