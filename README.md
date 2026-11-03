@@ -1,9 +1,6 @@
 # Halo, saya Anandito Satria Pradana 👋
 Mengembangkan aplikasi web dengan Laravel dan JavaScript, serta terbuka untuk kesempatan magang dan kerja sebagai Web Developer maupun IT Support.
 
-[Demo POS](https://rumahcakesuprezz.site/) · [Repo POS](https://github.com/ananditosatr/pos-rumah-cake-suprezz) · [Email](mailto:ananditosatriapradana18@gmail.com)
-
-[IT Support Notes](https://github.com/ananditosatr/it-support-notes)
 
 ## Tentang Saya
 
