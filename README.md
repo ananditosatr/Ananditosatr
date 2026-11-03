@@ -1,4 +1,4 @@
-# Halo, saya Anandito Satria Pradana 👋
+# Halo, saya Anandito Satria Pradana 
 Mengembangkan aplikasi web dengan Laravel dan JavaScript, serta terbuka untuk kesempatan magang dan kerja sebagai Web Developer maupun IT Support.
 
 
